@@ -1,0 +1,477 @@
+id,season,city,venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin_type,result_margin,team1_score,team2_score,eliminator,umpire1,umpire2
+1,2016,Mohali,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,67,103,170,N,A Deshmukh,J Madanagopal
+2,2016,Delhi,"Arun Jaitley Stadium, Delhi",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,13,170,183,N,V Kulkarni,P Reiffel
+3,2016,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,6,194,196,N,K Ananthapadmanabhan,V Kulkarni
+4,2016,Lucknow,"BRSABV Ekana Stadium, Lucknow",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,normal,runs,107,194,87,N,P Reiffel,C Shamshuddin
+5,2016,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,normal,wickets,6,206,200,N,K Ananthapadmanabhan,A Deshmukh
+6,2016,Delhi,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,normal,wickets,4,232,231,N,N Menon,R Pandit
+7,2016,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,4,216,213,N,V Kulkarni,A Deshmukh
+8,2016,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,normal,runs,22,199,177,N,S Ravi,C Shamshuddin
+9,2016,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Royal Challengers Bengaluru,normal,runs,3,174,171,N,S Ravi,R Pandit
+10,2016,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,normal,runs,3,169,172,N,V Kulkarni,J Madanagopal
+11,2016,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,normal,runs,20,166,186,N,V Kulkarni,A Deshmukh
+12,2016,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,19,216,197,N,K Ananthapadmanabhan,R Pandit
+13,2016,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,21,181,202,N,A Deshmukh,V Kulkarni
+14,2016,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,92,210,118,N,M Erasmus,C Shamshuddin
+15,2016,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,tie,runs,0,194,194,Y,C Shamshuddin,S Ravi
+16,2016,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,normal,wickets,9,80,78,N,C Shamshuddin,N Menon
+17,2016,Jaipur,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,normal,wickets,3,178,182,N,N Menon,A Deshmukh
+18,2016,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,4,179,176,N,M Erasmus,J Madanagopal
+19,2016,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,normal,runs,92,119,211,N,C Shamshuddin,M Erasmus
+20,2016,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Delhi Capitals,normal,wickets,5,177,179,N,N Menon,P Reiffel
+21,2016,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,normal,runs,34,181,215,N,A Deshmukh,N Menon
+22,2016,Lucknow,"BRSABV Ekana Stadium, Lucknow",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,5,181,176,N,R Pandit,N Menon
+23,2016,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,normal,runs,17,197,180,N,V Kulkarni,S Ravi
+24,2016,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,normal,runs,73,210,137,N,K Ananthapadmanabhan,P Reiffel
+25,2016,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,normal,runs,4,193,197,N,P Reiffel,J Madanagopal
+26,2016,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,3,129,133,N,V Kulkarni,N Menon
+27,2016,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,4,152,148,N,K Ananthapadmanabhan,P Reiffel
+28,2016,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,normal,wickets,4,158,155,N,C Shamshuddin,J Madanagopal
+29,2016,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,30,193,163,N,S Ravi,C Shamshuddin
+30,2016,Mumbai,"Wankhede Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,normal,wickets,5,113,110,N,R Pandit,C Shamshuddin
+31,2016,Jaipur,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,43,161,204,N,C Shamshuddin,J Madanagopal
+32,2016,Mumbai,"Wankhede Stadium, Mumbai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,normal,runs,71,221,150,N,C Shamshuddin,V Kulkarni
+33,2016,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,normal,runs,20,189,209,N,A Deshmukh,S Ravi
+34,2016,Chennai,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,normal,runs,17,195,178,N,S Ravi,J Madanagopal
+35,2016,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,normal,wickets,4,182,181,N,R Pandit,S Ravi
+36,2016,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,5,167,168,N,P Reiffel,A Deshmukh
+37,2016,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Royal Challengers Bengaluru,normal,wickets,5,212,209,N,P Reiffel,R Pandit
+38,2016,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,normal,runs,13,192,179,N,R Pandit,S Ravi
+39,2016,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,normal,runs,24,174,198,N,K Ananthapadmanabhan,C Shamshuddin
+40,2016,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,normal,runs,153,56,209,N,P Reiffel,J Madanagopal
+41,2016,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,normal,runs,10,215,205,N,A Deshmukh,N Menon
+42,2016,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bengaluru,normal,runs,98,216,118,N,S Ravi,C Shamshuddin
+43,2016,Jaipur,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,7,188,189,N,M Erasmus,N Menon
+44,2016,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,5,194,199,N,N Menon,C Shamshuddin
+45,2016,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,normal,wickets,4,203,202,N,K Ananthapadmanabhan,S Ravi
+46,2016,Chennai,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,normal,wickets,4,205,204,N,A Deshmukh,S Ravi
+47,2016,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,6,209,213,N,P Reiffel,S Ravi
+48,2016,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,8,148,150,N,A Deshmukh,P Reiffel
+49,2016,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,normal,runs,10,185,195,N,K Ananthapadmanabhan,C Shamshuddin
+50,2016,Mohali,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,3,164,162,N,A Deshmukh,V Kulkarni
+51,2016,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,normal,runs,49,131,180,N,C Shamshuddin,J Madanagopal
+52,2016,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,normal,runs,48,213,165,N,V Kulkarni,A Deshmukh
+53,2016,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,normal,runs,39,218,179,N,N Menon,S Ravi
+54,2016,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,37,196,159,N,V Kulkarni,C Shamshuddin
+55,2016,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,8,106,104,N,S Ravi,P Reiffel
+56,2016,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,30,179,209,N,A Deshmukh,R Pandit
+57,2017,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,3,182,185,N,A Deshmukh,N Menon
+58,2017,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,normal,wickets,4,179,183,N,S Ravi,P Reiffel
+59,2017,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,normal,wickets,1,184,183,N,C Shamshuddin,V Kulkarni
+60,2017,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,14,212,198,N,R Pandit,S Ravi
+61,2017,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,6,175,178,N,P Reiffel,J Madanagopal
+62,2017,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Royal Challengers Bengaluru,normal,wickets,3,123,122,N,P Reiffel,M Erasmus
+63,2017,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings,normal,wickets,5,202,201,N,V Kulkarni,J Madanagopal
+64,2017,Mohali,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,normal,wickets,5,155,154,N,K Ananthapadmanabhan,J Madanagopal
+65,2017,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,normal,runs,23,187,164,N,A Deshmukh,J Madanagopal
+66,2017,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,normal,wickets,9,164,163,N,M Erasmus,V Kulkarni
+67,2017,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,5,199,202,N,J Madanagopal,S Ravi
+68,2017,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,normal,wickets,1,183,182,N,P Reiffel,C Shamshuddin
+69,2017,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,normal,runs,35,200,235,N,J Madanagopal,P Reiffel
+70,2017,Mohali,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,normal,wickets,5,199,197,N,N Menon,C Shamshuddin
+71,2017,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,normal,runs,58,154,212,N,V Kulkarni,C Shamshuddin
+72,2017,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,normal,runs,61,143,204,N,S Ravi,N Menon
+73,2017,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,4,168,169,N,P Reiffel,V Kulkarni
+74,2017,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,5,181,178,N,V Kulkarni,A Deshmukh
+75,2017,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Royal Challengers Bengaluru,normal,wickets,6,140,142,N,S Ravi,N Menon
+76,2017,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,normal,runs,22,151,173,N,V Kulkarni,C Shamshuddin
+77,2017,Delhi,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,2,205,201,N,N Menon,A Deshmukh
+78,2017,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,normal,runs,13,168,181,N,K Ananthapadmanabhan,N Menon
+79,2017,Mohali,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,normal,runs,23,191,214,N,S Ravi,C Shamshuddin
+80,2017,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,5,170,169,N,K Ananthapadmanabhan,S Ravi
+81,2017,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,tie,runs,0,193,193,Y,K Ananthapadmanabhan,C Shamshuddin
+82,2017,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,normal,wickets,6,210,208,N,N Menon,K Ananthapadmanabhan
+83,2017,Lucknow,"BRSABV Ekana Stadium, Lucknow",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,4,184,188,N,N Menon,A Deshmukh
+84,2017,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,8,160,161,N,P Reiffel,K Ananthapadmanabhan
+85,2017,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,70,212,142,N,K Ananthapadmanabhan,P Reiffel
+86,2017,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,normal,runs,44,151,195,N,C Shamshuddin,S Ravi
+87,2017,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Royal Challengers Bengaluru,normal,wickets,6,182,186,N,J Madanagopal,A Deshmukh
+88,2017,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,normal,runs,44,243,199,N,C Shamshuddin,P Reiffel
+89,2017,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,78,86,164,N,J Madanagopal,P Reiffel
+90,2017,Lucknow,"BRSABV Ekana Stadium, Lucknow",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,2,182,176,N,N Menon,P Reiffel
+91,2017,Lucknow,"BRSABV Ekana Stadium, Lucknow",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,7,175,176,N,V Kulkarni,S Ravi
+92,2017,Mumbai,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,37,138,175,N,J Madanagopal,A Deshmukh
+93,2017,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,normal,runs,27,196,223,N,V Kulkarni,J Madanagopal
+94,2017,Mumbai,"Wankhede Stadium, Mumbai",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,5,145,149,N,K Ananthapadmanabhan,N Menon
+95,2017,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,normal,wickets,2,199,203,N,C Shamshuddin,R Pandit
+96,2017,Kolkata,"Eden Gardens, Kolkata",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,normal,runs,34,197,231,N,P Reiffel,A Deshmukh
+97,2017,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,normal,wickets,4,165,167,N,A Deshmukh,V Kulkarni
+98,2017,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,normal,wickets,8,158,155,N,K Ananthapadmanabhan,C Shamshuddin
+99,2017,Mohali,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,6,191,192,N,K Ananthapadmanabhan,P Reiffel
+100,2017,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,normal,runs,23,195,172,N,K Ananthapadmanabhan,V Kulkarni
+101,2017,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,normal,wickets,4,171,166,N,C Shamshuddin,K Ananthapadmanabhan
+102,2017,Lucknow,"BRSABV Ekana Stadium, Lucknow",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,normal,wickets,3,187,193,N,K Ananthapadmanabhan,A Deshmukh
+103,2017,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,56,122,178,N,N Menon,V Kulkarni
+104,2017,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,normal,runs,39,162,201,N,S Ravi,J Madanagopal
+105,2017,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,2,169,166,N,M Erasmus,C Shamshuddin
+106,2017,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,normal,runs,40,210,170,N,N Menon,V Kulkarni
+107,2017,Mohali,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Kolkata Knight Riders,normal,wickets,2,189,185,N,N Menon,S Ravi
+108,2017,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,normal,runs,20,162,182,N,M Erasmus,C Shamshuddin
+109,2017,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,37,183,220,N,P Reiffel,V Kulkarni
+110,2017,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,normal,wickets,3,186,184,N,N Menon,M Erasmus
+111,2017,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,normal,wickets,4,182,185,N,M Erasmus,S Ravi
+112,2017,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,normal,wickets,2,197,194,N,S Ravi,J Madanagopal
+113,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Kolkata Knight Riders,normal,runs,59,144,203,N,A Deshmukh,J Madanagopal
+114,2018,Delhi,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,normal,wickets,2,206,204,N,J Madanagopal,P Reiffel
+115,2018,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Chennai Super Kings,normal,wickets,4,206,203,N,K Ananthapadmanabhan,S Ravi
+116,2018,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,101,125,226,N,C Shamshuddin,S Ravi
+117,2018,Jaipur,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,normal,runs,30,225,195,N,J Madanagopal,S Ravi
+118,2018,Chennai,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,normal,wickets,8,163,166,N,M Erasmus,P Reiffel
+119,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,8,136,139,N,V Kulkarni,N Menon
+120,2018,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,normal,runs,45,212,167,N,J Madanagopal,P Reiffel
+121,2018,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,61,157,218,N,V Kulkarni,C Shamshuddin
+122,2018,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,normal,runs,2,204,206,N,A Deshmukh,N Menon
+123,2018,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,normal,runs,7,233,226,N,S Ravi,R Pandit
+124,2018,Mumbai,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,49,230,181,N,R Pandit,N Menon
+125,2018,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,2,198,197,N,V Kulkarni,P Reiffel
+126,2018,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,normal,runs,7,198,191,N,M Erasmus,K Ananthapadmanabhan
+127,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,71,203,132,N,V Kulkarni,P Reiffel
+128,2018,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,5,202,200,N,N Menon,K Ananthapadmanabhan
+129,2018,Jaipur,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,normal,wickets,4,164,163,N,V Kulkarni,K Ananthapadmanabhan
+130,2018,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,normal,runs,22,183,205,N,P Reiffel,V Kulkarni
+131,2018,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,normal,runs,3,212,209,N,J Madanagopal,R Pandit
+132,2018,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,normal,runs,7,196,189,N,V Kulkarni,P Reiffel
+133,2018,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Kolkata Knight Riders,normal,wickets,6,181,180,N,R Pandit,K Ananthapadmanabhan
+134,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,32,163,195,N,A Deshmukh,P Reiffel
+135,2018,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,24,157,181,N,C Shamshuddin,J Madanagopal
+136,2018,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,normal,wickets,5,171,168,N,N Menon,V Kulkarni
+137,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,7,164,166,N,K Ananthapadmanabhan,A Deshmukh
+138,2018,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,18,230,212,N,J Madanagopal,C Shamshuddin
+139,2018,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,10,198,208,N,V Kulkarni,J Madanagopal
+140,2018,Lucknow,"BRSABV Ekana Stadium, Lucknow",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,normal,runs,73,202,129,N,S Ravi,N Menon
+141,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,normal,runs,55,240,185,N,M Erasmus,A Deshmukh
+142,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,4,170,175,N,A Deshmukh,P Reiffel
+143,2018,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,6,152,151,N,S Ravi,V Kulkarni
+144,2018,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,normal,runs,10,192,202,N,M Erasmus,C Shamshuddin
+145,2018,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,normal,runs,26,184,210,N,R Pandit,N Menon
+146,2018,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,normal,wickets,5,160,159,N,N Menon,S Ravi
+147,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,19,191,172,N,A Deshmukh,V Kulkarni
+148,2018,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,normal,wickets,5,163,162,N,R Pandit,C Shamshuddin
+149,2018,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,15,186,171,N,J Madanagopal,A Deshmukh
+150,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,normal,wickets,5,142,141,N,J Madanagopal,C Shamshuddin
+151,2018,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,3,195,198,N,V Kulkarni,R Pandit
+152,2018,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,5,161,167,N,V Kulkarni,K Ananthapadmanabhan
+153,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,6,203,201,N,R Pandit,A Deshmukh
+154,2018,Mohali,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,normal,wickets,1,175,174,N,V Kulkarni,J Madanagopal
+155,2018,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,normal,wickets,6,183,187,N,C Shamshuddin,S Ravi
+156,2018,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,normal,runs,16,202,218,N,M Erasmus,N Menon
+157,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,normal,runs,18,199,181,N,R Pandit,J Madanagopal
+158,2018,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,normal,runs,87,95,182,N,C Shamshuddin,V Kulkarni
+159,2018,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,normal,runs,60,206,146,N,P Reiffel,N Menon
+160,2018,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,normal,wickets,5,179,185,N,M Erasmus,N Menon
+161,2018,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,normal,runs,6,183,189,N,P Reiffel,S Ravi
+162,2018,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,5,197,196,N,N Menon,K Ananthapadmanabhan
+163,2018,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,70,167,237,N,A Deshmukh,J Madanagopal
+164,2018,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,normal,wickets,7,180,179,N,C Shamshuddin,N Menon
+165,2018,Mohali,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,normal,runs,1,210,209,N,C Shamshuddin,K Ananthapadmanabhan
+166,2018,Mumbai,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,8,194,186,N,V Kulkarni,C Shamshuddin
+167,2018,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Royal Challengers Bengaluru,normal,runs,39,188,227,N,P Reiffel,K Ananthapadmanabhan
+168,2018,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,normal,runs,73,232,159,N,N Menon,J Madanagopal
+169,2019,Delhi,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,normal,runs,40,181,221,N,S Ravi,P Reiffel
+170,2019,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Royal Challengers Bengaluru,normal,wickets,3,153,149,N,P Reiffel,J Madanagopal
+171,2019,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,30,172,202,N,A Deshmukh,P Reiffel
+172,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,64,127,191,N,M Erasmus,C Shamshuddin
+173,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,3,160,162,N,A Deshmukh,K Ananthapadmanabhan
+174,2019,Jaipur,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,normal,wickets,4,191,189,N,N Menon,V Kulkarni
+175,2019,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,2,153,156,N,V Kulkarni,A Deshmukh
+176,2019,Chennai,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,normal,runs,27,176,149,N,C Shamshuddin,N Menon
+177,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,35,198,233,N,R Pandit,C Shamshuddin
+178,2019,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,3,201,200,N,N Menon,R Pandit
+179,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,normal,wickets,7,196,202,N,S Ravi,A Deshmukh
+180,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,98,272,174,N,M Erasmus,V Kulkarni
+181,2019,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,normal,runs,23,199,176,N,P Reiffel,V Kulkarni
+182,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,normal,wickets,5,209,214,N,P Reiffel,V Kulkarni
+183,2019,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,2,162,156,N,J Madanagopal,C Shamshuddin
+184,2019,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,9,216,213,N,R Pandit,C Shamshuddin
+185,2019,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,4,180,182,N,R Pandit,V Kulkarni
+186,2019,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,normal,runs,6,220,226,N,V Kulkarni,P Reiffel
+187,2019,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,normal,runs,9,173,182,N,P Reiffel,N Menon
+188,2019,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,normal,runs,18,225,207,N,N Menon,K Ananthapadmanabhan
+189,2019,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,normal,runs,30,205,175,N,V Kulkarni,N Menon
+190,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,24,199,175,N,K Ananthapadmanabhan,C Shamshuddin
+191,2019,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,normal,runs,20,172,192,N,A Deshmukh,N Menon
+192,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,normal,runs,20,162,142,N,M Erasmus,V Kulkarni
+193,2019,Mohali,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,normal,wickets,5,146,148,N,J Madanagopal,N Menon
+194,2019,Mumbai,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,4,219,223,N,S Ravi,K Ananthapadmanabhan
+195,2019,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,normal,runs,16,211,227,N,K Ananthapadmanabhan,R Pandit
+196,2019,Mumbai,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,34,146,180,N,V Kulkarni,M Erasmus
+197,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,31,166,197,N,C Shamshuddin,A Deshmukh
+198,2019,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,6,186,182,N,K Ananthapadmanabhan,V Kulkarni
+199,2019,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,normal,runs,70,260,190,N,M Erasmus,K Ananthapadmanabhan
+200,2019,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,normal,wickets,7,153,150,N,S Ravi,C Shamshuddin
+201,2019,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,normal,runs,2,192,190,N,A Deshmukh,N Menon
+202,2019,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings,normal,wickets,1,136,134,N,N Menon,S Ravi
+203,2019,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,8,84,85,N,K Ananthapadmanabhan,C Shamshuddin
+204,2019,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,normal,runs,25,202,177,N,A Deshmukh,R Pandit
+205,2019,Delhi,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,normal,runs,52,216,164,N,N Menon,S Ravi
+206,2019,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,56,176,120,N,A Deshmukh,R Pandit
+207,2019,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,normal,runs,31,225,194,N,V Kulkarni,P Reiffel
+208,2019,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,92,253,161,N,M Erasmus,P Reiffel
+209,2019,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,3,171,172,N,K Ananthapadmanabhan,M Erasmus
+210,2019,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,21,206,185,N,P Reiffel,S Ravi
+211,2019,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Delhi Capitals,normal,runs,8,210,218,N,S Ravi,C Shamshuddin
+212,2019,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,2,188,183,N,M Erasmus,J Madanagopal
+213,2019,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,normal,runs,28,174,202,N,M Erasmus,C Shamshuddin
+214,2019,Mumbai,"Wankhede Stadium, Mumbai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,tie,runs,0,181,181,Y,N Menon,V Kulkarni
+215,2019,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,normal,runs,41,195,236,N,K Ananthapadmanabhan,S Ravi
+216,2019,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,normal,wickets,2,178,176,N,N Menon,A Deshmukh
+217,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,normal,wickets,4,138,134,N,M Erasmus,S Ravi
+218,2019,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,normal,wickets,5,184,178,N,M Erasmus,N Menon
+219,2019,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,5,180,176,N,A Deshmukh,J Madanagopal
+220,2019,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,normal,wickets,6,198,200,N,K Ananthapadmanabhan,V Kulkarni
+221,2019,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,6,182,179,N,A Deshmukh,C Shamshuddin
+222,2019,Chennai,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,12,206,218,N,K Ananthapadmanabhan,V Kulkarni
+223,2019,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,81,237,156,N,A Deshmukh,C Shamshuddin
+224,2019,Lucknow,"BRSABV Ekana Stadium, Lucknow",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,5,159,163,N,V Kulkarni,J Madanagopal
+225,2020,Mohali,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,normal,runs,17,174,157,N,V Kulkarni,S Ravi
+226,2020,Lucknow,"BRSABV Ekana Stadium, Lucknow",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,normal,wickets,3,160,156,N,S Ravi,M Erasmus
+227,2020,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,normal,runs,52,202,150,N,R Pandit,C Shamshuddin
+228,2020,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,6,156,159,N,S Ravi,A Deshmukh
+229,2020,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,normal,wickets,7,200,197,N,P Reiffel,N Menon
+230,2020,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,1,208,209,N,S Ravi,J Madanagopal
+231,2020,Kolkata,"Eden Gardens, Kolkata",Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,normal,runs,37,196,159,N,J Madanagopal,A Deshmukh
+232,2020,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,normal,wickets,4,151,149,N,P Reiffel,C Shamshuddin
+233,2020,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,9,114,118,N,K Ananthapadmanabhan,V Kulkarni
+234,2020,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,normal,runs,25,176,201,N,K Ananthapadmanabhan,A Deshmukh
+235,2020,Kolkata,"Eden Gardens, Kolkata",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,normal,wickets,2,180,183,N,N Menon,C Shamshuddin
+236,2020,Mohali,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,normal,runs,26,160,186,N,M Erasmus,R Pandit
+237,2020,Lucknow,"BRSABV Ekana Stadium, Lucknow",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,48,222,174,N,S Ravi,A Deshmukh
+238,2020,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,13,218,205,N,J Madanagopal,K Ananthapadmanabhan
+239,2020,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,normal,wickets,7,101,100,N,C Shamshuddin,A Deshmukh
+240,2020,Delhi,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,1,183,182,N,M Erasmus,R Pandit
+241,2020,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Chennai Super Kings,normal,runs,7,204,197,N,R Pandit,P Reiffel
+242,2020,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,normal,wickets,2,205,204,N,M Erasmus,J Madanagopal
+243,2020,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,normal,runs,42,135,177,N,V Kulkarni,N Menon
+244,2020,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Mumbai Indians,normal,runs,15,222,207,N,M Erasmus,N Menon
+245,2020,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,138,78,216,N,R Pandit,J Madanagopal
+246,2020,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,normal,wickets,4,172,168,N,V Kulkarni,K Ananthapadmanabhan
+247,2020,Mumbai,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,normal,wickets,8,212,213,N,N Menon,C Shamshuddin
+248,2020,Chennai,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,8,197,200,N,M Erasmus,N Menon
+249,2020,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,normal,runs,27,191,164,N,N Menon,R Pandit
+250,2020,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,normal,wickets,6,171,176,N,C Shamshuddin,K Ananthapadmanabhan
+251,2020,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,normal,runs,37,216,179,N,P Reiffel,K Ananthapadmanabhan
+252,2020,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,4,151,152,N,A Deshmukh,M Erasmus
+253,2020,Delhi,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,normal,runs,2,184,182,N,J Madanagopal,N Menon
+254,2020,Kolkata,"Eden Gardens, Kolkata",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,59,151,210,N,S Ravi,V Kulkarni
+255,2020,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,normal,runs,61,183,244,N,J Madanagopal,M Erasmus
+256,2020,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,normal,runs,71,228,157,N,S Ravi,C Shamshuddin
+257,2020,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,normal,runs,34,217,183,N,N Menon,S Ravi
+258,2020,Kolkata,"Eden Gardens, Kolkata",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,50,166,216,N,P Reiffel,N Menon
+259,2020,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,normal,runs,1,182,181,N,J Madanagopal,S Ravi
+260,2020,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,normal,runs,30,233,203,N,J Madanagopal,C Shamshuddin
+261,2020,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,normal,runs,23,195,218,N,K Ananthapadmanabhan,S Ravi
+262,2020,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,51,220,169,N,R Pandit,K Ananthapadmanabhan
+263,2020,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,normal,runs,3,190,187,N,R Pandit,C Shamshuddin
+264,2020,Mumbai,"Wankhede Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,3,204,209,N,M Erasmus,J Madanagopal
+265,2020,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,3,187,188,N,P Reiffel,A Deshmukh
+266,2020,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,31,185,154,N,M Erasmus,K Ananthapadmanabhan
+267,2020,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,normal,runs,6,202,196,N,C Shamshuddin,K Ananthapadmanabhan
+268,2020,Mumbai,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,normal,runs,15,186,201,N,N Menon,M Erasmus
+269,2020,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,20,156,176,N,J Madanagopal,V Kulkarni
+270,2020,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,normal,runs,85,185,100,N,N Menon,J Madanagopal
+271,2020,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,normal,wickets,9,185,189,N,P Reiffel,R Pandit
+272,2020,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Royal Challengers Bengaluru,normal,wickets,6,149,150,N,V Kulkarni,C Shamshuddin
+273,2020,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,normal,runs,141,232,91,N,J Madanagopal,M Erasmus
+274,2020,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,4,208,210,N,A Deshmukh,V Kulkarni
+275,2020,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,normal,wickets,3,182,181,N,K Ananthapadmanabhan,V Kulkarni
+276,2020,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,9,151,150,N,P Reiffel,K Ananthapadmanabhan
+277,2020,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,8,146,143,N,R Pandit,P Reiffel
+278,2020,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,normal,wickets,4,158,162,N,P Reiffel,M Erasmus
+279,2020,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,normal,wickets,1,180,182,N,R Pandit,N Menon
+280,2020,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,2,207,205,N,R Pandit,C Shamshuddin
+281,2021,Lucknow,"BRSABV Ekana Stadium, Lucknow",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,12,178,166,N,S Ravi,N Menon
+282,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,tie,runs,0,221,221,Y,M Erasmus,S Ravi
+283,2021,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,normal,wickets,2,201,202,N,C Shamshuddin,J Madanagopal
+284,2021,Kolkata,"Eden Gardens, Kolkata",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,24,201,177,N,C Shamshuddin,V Kulkarni
+285,2021,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,normal,runs,27,213,240,N,R Pandit,K Ananthapadmanabhan
+286,2021,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,12,166,178,N,J Madanagopal,M Erasmus
+287,2021,Mumbai,"Wankhede Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,27,150,177,N,N Menon,R Pandit
+288,2021,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,5,188,186,N,N Menon,V Kulkarni
+289,2021,Mohali,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Royal Challengers Bengaluru,normal,wickets,1,162,161,N,S Ravi,N Menon
+290,2021,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,22,240,218,N,N Menon,S Ravi
+291,2021,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,3,177,174,N,A Deshmukh,J Madanagopal
+292,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,normal,wickets,7,198,196,N,K Ananthapadmanabhan,C Shamshuddin
+293,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,7,182,183,N,J Madanagopal,C Shamshuddin
+294,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,normal,runs,10,190,180,N,J Madanagopal,K Ananthapadmanabhan
+295,2021,Mumbai,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,normal,runs,19,169,188,N,C Shamshuddin,N Menon
+296,2021,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,normal,runs,19,173,154,N,N Menon,V Kulkarni
+297,2021,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,6,194,191,N,V Kulkarni,C Shamshuddin
+298,2021,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,normal,runs,44,204,248,N,V Kulkarni,N Menon
+299,2021,Kolkata,"Eden Gardens, Kolkata",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,61,92,153,N,A Deshmukh,N Menon
+300,2021,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,99,232,133,N,A Deshmukh,K Ananthapadmanabhan
+301,2021,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,41,197,156,N,P Reiffel,J Madanagopal
+302,2021,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,normal,runs,17,203,186,N,M Erasmus,J Madanagopal
+303,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,normal,runs,29,166,195,N,A Deshmukh,J Madanagopal
+304,2021,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Chennai Super Kings,normal,runs,24,209,185,N,V Kulkarni,C Shamshuddin
+305,2021,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,normal,runs,51,160,211,N,P Reiffel,K Ananthapadmanabhan
+306,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,3,152,148,N,K Ananthapadmanabhan,A Deshmukh
+307,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,9,178,179,N,V Kulkarni,P Reiffel
+308,2021,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,normal,runs,31,180,211,N,A Deshmukh,V Kulkarni
+309,2021,Delhi,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,normal,wickets,4,178,180,N,P Reiffel,M Erasmus
+310,2021,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,normal,wickets,5,179,180,N,M Erasmus,P Reiffel
+311,2021,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,normal,runs,17,198,181,N,R Pandit,P Reiffel
+312,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,4,191,190,N,R Pandit,S Ravi
+313,2021,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,37,186,223,N,V Kulkarni,R Pandit
+314,2021,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,7,122,121,N,J Madanagopal,V Kulkarni
+315,2021,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,normal,runs,23,200,177,N,R Pandit,C Shamshuddin
+316,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,normal,runs,84,112,196,N,N Menon,J Madanagopal
+317,2021,Mumbai,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,5,158,160,N,P Reiffel,M Erasmus
+318,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,1,167,168,N,C Shamshuddin,P Reiffel
+319,2021,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Royal Challengers Bengaluru,normal,wickets,3,169,164,N,P Reiffel,K Ananthapadmanabhan
+320,2021,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,18,188,206,N,N Menon,M Erasmus
+321,2021,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,normal,runs,17,232,215,N,S Ravi,R Pandit
+322,2021,Lucknow,"BRSABV Ekana Stadium, Lucknow",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,normal,runs,11,213,202,N,J Madanagopal,K Ananthapadmanabhan
+323,2021,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,normal,runs,1,194,193,N,N Menon,C Shamshuddin
+324,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,20,157,177,N,J Madanagopal,A Deshmukh
+325,2021,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,normal,wickets,4,176,173,N,A Deshmukh,R Pandit
+326,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,3,162,164,N,C Shamshuddin,J Madanagopal
+327,2021,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,normal,runs,10,186,176,N,N Menon,C Shamshuddin
+328,2021,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,49,194,145,N,V Kulkarni,J Madanagopal
+329,2021,Delhi,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,4,182,183,N,A Deshmukh,P Reiffel
+330,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,28,203,175,N,S Ravi,N Menon
+331,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,normal,wickets,3,158,156,N,C Shamshuddin,J Madanagopal
+332,2021,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,3,205,211,N,R Pandit,S Ravi
+333,2021,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,normal,wickets,4,183,178,N,K Ananthapadmanabhan,N Menon
+334,2021,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,normal,wickets,4,191,192,N,S Ravi,C Shamshuddin
+335,2021,Kolkata,"Eden Gardens, Kolkata",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,normal,runs,8,204,196,N,V Kulkarni,C Shamshuddin
+336,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,normal,wickets,5,155,154,N,R Pandit,K Ananthapadmanabhan
+337,2022,Kolkata,"Eden Gardens, Kolkata",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,Lucknow Super Giants,normal,wickets,5,165,170,N,S Ravi,J Madanagopal
+338,2022,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,normal,wickets,5,184,187,N,N Menon,A Deshmukh
+339,2022,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,normal,wickets,4,190,192,N,A Deshmukh,M Erasmus
+340,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,2,174,176,N,R Pandit,V Kulkarni
+341,2022,Jaipur,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Royal Challengers Bengaluru,normal,runs,27,178,205,N,V Kulkarni,N Menon
+342,2022,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,normal,wickets,1,164,161,N,J Madanagopal,S Ravi
+343,2022,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,normal,runs,37,180,217,N,K Ananthapadmanabhan,N Menon
+344,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,6,182,181,N,J Madanagopal,K Ananthapadmanabhan
+345,2022,Delhi,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,normal,wickets,6,156,153,N,A Deshmukh,P Reiffel
+346,2022,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Chennai Super Kings,normal,wickets,2,181,180,N,R Pandit,A Deshmukh
+347,2022,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,12,197,209,N,K Ananthapadmanabhan,N Menon
+348,2022,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,normal,wickets,5,152,153,N,S Ravi,C Shamshuddin
+349,2022,Kolkata,"Eden Gardens, Kolkata",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,normal,runs,71,166,237,N,N Menon,C Shamshuddin
+350,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Mumbai Indians,normal,wickets,7,172,171,N,K Ananthapadmanabhan,N Menon
+351,2022,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,normal,runs,38,179,217,N,A Deshmukh,R Pandit
+352,2022,Kolkata,"Eden Gardens, Kolkata",Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,bat,Gujarat Titans,normal,wickets,9,113,109,N,C Shamshuddin,V Kulkarni
+353,2022,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,normal,wickets,3,177,176,N,N Menon,J Madanagopal
+354,2022,Kolkata,"Eden Gardens, Kolkata",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,normal,wickets,10,130,131,N,P Reiffel,K Ananthapadmanabhan
+355,2022,Chennai,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,normal,wickets,3,168,162,N,K Ananthapadmanabhan,V Kulkarni
+356,2022,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Gujarat Titans,Delhi Capitals,field,Delhi Capitals,normal,wickets,1,167,166,N,S Ravi,N Menon
+357,2022,Chennai,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,5,133,127,N,J Madanagopal,P Reiffel
+358,2022,Mumbai,"Wankhede Stadium, Mumbai",Punjab Kings,Gujarat Titans,Gujarat Titans,field,Punjab Kings,normal,runs,5,197,192,N,R Pandit,S Ravi
+359,2022,Lucknow,"BRSABV Ekana Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Lucknow Super Giants,normal,runs,15,178,193,N,M Erasmus,J Madanagopal
+360,2022,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,53,154,207,N,J Madanagopal,N Menon
+361,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Lucknow Super Giants,normal,runs,31,184,215,N,K Ananthapadmanabhan,N Menon
+362,2022,Mumbai,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Lucknow Super Giants,normal,runs,39,199,238,N,V Kulkarni,M Erasmus
+363,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,30,199,169,N,R Pandit,M Erasmus
+364,2022,Chennai,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,normal,runs,41,174,215,N,N Menon,V Kulkarni
+365,2022,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,normal,runs,3,163,160,N,N Menon,P Reiffel
+366,2022,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Punjab Kings,normal,runs,38,147,185,N,M Erasmus,P Reiffel
+367,2022,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bengaluru,normal,runs,33,199,166,N,J Madanagopal,C Shamshuddin
+368,2022,Kolkata,"Eden Gardens, Kolkata",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,normal,runs,22,219,241,N,A Deshmukh,R Pandit
+369,2022,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Chennai Super Kings,normal,wickets,5,199,198,N,R Pandit,V Kulkarni
+370,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,4,190,193,N,C Shamshuddin,J Madanagopal
+371,2022,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,1,213,215,N,S Ravi,J Madanagopal
+372,2022,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Delhi Capitals,normal,wickets,3,179,183,N,N Menon,R Pandit
+373,2022,Jaipur,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,41,219,178,N,V Kulkarni,M Erasmus
+374,2022,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Chennai Super Kings,normal,runs,2,222,220,N,K Ananthapadmanabhan,M Erasmus
+375,2022,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,3,174,173,N,A Deshmukh,V Kulkarni
+376,2022,Delhi,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,38,230,192,N,M Erasmus,R Pandit
+377,2022,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,96,122,218,N,A Deshmukh,V Kulkarni
+378,2022,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,normal,runs,2,197,195,N,A Deshmukh,K Ananthapadmanabhan
+379,2022,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,normal,wickets,8,197,198,N,P Reiffel,K Ananthapadmanabhan
+380,2022,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,wickets,7,90,96,N,K Ananthapadmanabhan,R Pandit
+381,2022,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,normal,wickets,4,161,160,N,A Deshmukh,S Ravi
+382,2022,Mumbai,"Wankhede Stadium, Mumbai",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Lucknow Super Giants,normal,runs,39,175,214,N,K Ananthapadmanabhan,V Kulkarni
+383,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Lucknow Super Giants,normal,wickets,6,177,182,N,A Deshmukh,P Reiffel
+384,2022,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,normal,wickets,5,200,202,N,R Pandit,S Ravi
+385,2022,Mumbai,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,normal,wickets,3,188,185,N,V Kulkarni,K Ananthapadmanabhan
+386,2022,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,7,182,183,N,C Shamshuddin,A Deshmukh
+387,2022,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,normal,runs,18,217,199,N,N Menon,K Ananthapadmanabhan
+388,2022,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,normal,wickets,8,196,197,N,V Kulkarni,A Deshmukh
+389,2022,Mohali,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,7,179,177,N,P Reiffel,V Kulkarni
+390,2022,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,14,202,216,N,K Ananthapadmanabhan,A Deshmukh
+391,2022,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,normal,runs,30,173,203,N,P Reiffel,R Pandit
+392,2022,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,normal,wickets,5,177,175,N,A Deshmukh,J Madanagopal
+393,2022,Chennai,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,normal,runs,13,180,167,N,N Menon,P Reiffel
+394,2022,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,normal,wickets,1,149,145,N,M Erasmus,A Deshmukh
+395,2022,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,tie,runs,0,210,210,Y,S Ravi,M Erasmus
+396,2022,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,normal,wickets,1,196,197,N,P Reiffel,J Madanagopal
+397,2022,Delhi,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Lucknow Super Giants,normal,wickets,5,145,147,N,N Menon,C Shamshuddin
+398,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,tie,runs,0,186,186,Y,N Menon,M Erasmus
+399,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,normal,wickets,5,178,183,N,M Erasmus,S Ravi
+400,2022,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,normal,runs,58,229,171,N,N Menon,R Pandit
+401,2022,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,Gujarat Titans,normal,wickets,6,191,194,N,J Madanagopal,K Ananthapadmanabhan
+402,2022,Chennai,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,normal,runs,79,144,223,N,K Ananthapadmanabhan,J Madanagopal
+403,2022,Kolkata,"Eden Gardens, Kolkata",Punjab Kings,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,normal,runs,40,166,206,N,C Shamshuddin,J Madanagopal
+404,2022,Jaipur,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Lucknow Super Giants,Punjab Kings,bat,Lucknow Super Giants,normal,wickets,7,192,196,N,V Kulkarni,J Madanagopal
+405,2022,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,35,218,183,N,J Madanagopal,C Shamshuddin
+406,2022,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,Delhi Capitals,normal,runs,15,213,198,N,J Madanagopal,K Ananthapadmanabhan
+407,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,normal,wickets,6,159,163,N,V Kulkarni,J Madanagopal
+408,2023,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,normal,wickets,1,171,169,N,J Madanagopal,A Deshmukh
+409,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,normal,wickets,7,152,149,N,C Shamshuddin,A Deshmukh
+410,2023,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,normal,wickets,4,182,179,N,V Kulkarni,C Shamshuddin
+411,2023,Delhi,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,20,202,182,N,K Ananthapadmanabhan,A Deshmukh
+412,2023,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,normal,runs,54,210,156,N,V Kulkarni,K Ananthapadmanabhan
+413,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Kolkata Knight Riders,normal,wickets,7,162,164,N,A Deshmukh,P Reiffel
+414,2023,Mohali,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,normal,runs,26,152,178,N,M Erasmus,S Ravi
+415,2023,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Gujarat Titans,Mumbai Indians,bat,Mumbai Indians,normal,runs,8,184,176,N,K Ananthapadmanabhan,S Ravi
+416,2023,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,39,203,164,N,P Reiffel,C Shamshuddin
+417,2023,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,normal,runs,18,196,214,N,S Ravi,V Kulkarni
+418,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,normal,wickets,10,118,116,N,N Menon,V Kulkarni
+419,2023,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,Lucknow Super Giants,normal,runs,20,165,185,N,P Reiffel,C Shamshuddin
+420,2023,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,tie,runs,0,197,197,Y,V Kulkarni,P Reiffel
+421,2023,Chennai,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Punjab Kings,normal,wickets,4,165,161,N,V Kulkarni,S Ravi
+422,2023,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,40,222,182,N,C Shamshuddin,J Madanagopal
+423,2023,Jaipur,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,normal,wickets,7,173,178,N,V Kulkarni,S Ravi
+424,2023,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,3,165,166,N,J Madanagopal,C Shamshuddin
+425,2023,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Royal Challengers Bengaluru,normal,runs,32,201,169,N,P Reiffel,J Madanagopal
+426,2023,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,bat,Royal Challengers Bengaluru,normal,wickets,2,110,108,N,C Shamshuddin,J Madanagopal
+427,2023,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,2,174,170,N,K Ananthapadmanabhan,J Madanagopal
+428,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,wickets,7,171,169,N,K Ananthapadmanabhan,J Madanagopal
+429,2023,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,1,180,182,N,C Shamshuddin,S Ravi
+430,2023,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Delhi Capitals,tie,runs,0,212,212,Y,M Erasmus,K Ananthapadmanabhan
+431,2023,Mohali,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,6,153,152,N,R Pandit,M Erasmus
+432,2023,Delhi,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Royal Challengers Bengaluru,normal,runs,16,176,192,N,A Deshmukh,M Erasmus
+433,2023,Mohali,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,2,156,157,N,C Shamshuddin,R Pandit
+434,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,normal,runs,11,195,184,N,J Madanagopal,R Pandit
+435,2023,Mumbai,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,17,149,166,N,V Kulkarni,A Deshmukh
+436,2023,Jaipur,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Delhi Capitals,normal,wickets,5,200,197,N,M Erasmus,A Deshmukh
+437,2023,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,normal,wickets,3,158,159,N,C Shamshuddin,S Ravi
+438,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,normal,wickets,4,190,186,N,A Deshmukh,K Ananthapadmanabhan
+439,2023,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,normal,wickets,3,188,189,N,M Erasmus,P Reiffel
+440,2023,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,normal,runs,3,194,191,N,P Reiffel,J Madanagopal
+441,2023,Delhi,"Arun Jaitley Stadium, Delhi",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,normal,wickets,3,113,111,N,V Kulkarni,J Madanagopal
+442,2023,Jaipur,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,normal,runs,23,190,213,N,M Erasmus,K Ananthapadmanabhan
+443,2023,Chennai,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,normal,wickets,6,144,148,N,P Reiffel,R Pandit
+444,2023,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,normal,wickets,7,168,166,N,R Pandit,A Deshmukh
+445,2023,Delhi,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,2,196,197,N,R Pandit,K Ananthapadmanabhan
+446,2023,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,normal,wickets,6,187,192,N,N Menon,A Deshmukh
+447,2023,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,normal,runs,27,211,238,N,J Madanagopal,R Pandit
+448,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Lucknow Super Giants,normal,wickets,4,150,151,N,N Menon,M Erasmus
+449,2023,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,normal,runs,41,175,216,N,A Deshmukh,C Shamshuddin
+450,2023,Kolkata,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,normal,runs,4,179,175,N,N Menon,S Ravi
+451,2023,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,normal,wickets,3,190,189,N,P Reiffel,C Shamshuddin
+452,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Chennai Super Kings,normal,runs,65,209,144,N,N Menon,K Ananthapadmanabhan
+453,2023,Hyderabad,"Rajiv Gandhi Intl. Stadium, Hyderabad",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,normal,runs,51,159,210,N,A Deshmukh,C Shamshuddin
+454,2023,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,45,227,182,N,M Erasmus,S Ravi
+455,2023,Jaipur,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,normal,runs,127,248,121,N,P Reiffel,C Shamshuddin
+456,2023,Jaipur,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,Gujarat Titans,normal,wickets,4,166,169,N,K Ananthapadmanabhan,V Kulkarni
+457,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,normal,runs,76,130,206,N,N Menon,P Reiffel
+458,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,normal,runs,47,214,167,N,J Madanagopal,M Erasmus
+459,2023,Jaipur,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,normal,runs,30,167,197,N,S Ravi,K Ananthapadmanabhan
+460,2023,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Gujarat Titans,normal,runs,24,198,222,N,P Reiffel,J Madanagopal
+461,2023,Delhi,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,28,176,148,N,P Reiffel,K Ananthapadmanabhan
+462,2023,Mohali,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,normal,wickets,4,175,177,N,S Ravi,M Erasmus
+463,2023,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,normal,runs,40,209,169,N,J Madanagopal,P Reiffel
+464,2023,Kolkata,"Eden Gardens, Kolkata",Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,Lucknow Super Giants,normal,runs,14,187,201,N,V Kulkarni,R Pandit
+465,2023,Bengaluru,"M. Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,normal,wickets,6,199,200,N,M Erasmus,A Deshmukh
+466,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,normal,wickets,9,107,111,N,R Pandit,P Reiffel
+467,2023,Chennai,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,tie,runs,0,207,207,Y,V Kulkarni,C Shamshuddin
+468,2023,Kolkata,"Eden Gardens, Kolkata",Punjab Kings,Gujarat Titans,Punjab Kings,bat,Punjab Kings,normal,runs,46,193,147,N,C Shamshuddin,K Ananthapadmanabhan
+469,2023,Mohali,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Mumbai Indians,normal,runs,58,203,145,N,N Menon,R Pandit
+470,2023,Chennai,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Punjab Kings,normal,runs,28,181,209,N,C Shamshuddin,M Erasmus
+471,2023,Mumbai,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,Royal Challengers Bengaluru,normal,runs,31,230,199,N,S Ravi,C Shamshuddin
+472,2023,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,normal,wickets,6,147,151,N,A Deshmukh,N Menon
+473,2023,Mohali,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,39,154,193,N,K Ananthapadmanabhan,S Ravi
+474,2023,Mohali,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,normal,runs,18,167,185,N,N Menon,A Deshmukh
+475,2023,Mumbai,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,normal,runs,66,205,139,N,V Kulkarni,N Menon
+476,2023,Lucknow,"BRSABV Ekana Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Lucknow Super Giants,normal,runs,41,182,223,N,J Madanagopal,K Ananthapadmanabhan
